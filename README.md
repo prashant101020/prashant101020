@@ -1,5 +1,4 @@
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Prashant(Yadav|)" title="👋 Hi there! I'm (Prashant(yadav)|https://raymond.li)"/>](https://raymond.li/)
 <!--
 **prashant101020/prashant101020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
