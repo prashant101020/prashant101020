@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h3 align="center">I'm Prashant yadav Jain CS Junior (18-22) <!--  from Lucknow, India <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" --></h3> 
+<h3 align="center">I'm Prashant yadav  CS Junior (18-22) <!--  from Lucknow, India <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" --></h3> 
 
 <p align="center"> 
 	<a href="https://github.com/prashant101020"><img src="https://komarev.com/ghpvc/?username=prashant101020" alt="Prashant Yadav"/></a>
